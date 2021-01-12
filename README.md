@@ -4,7 +4,9 @@ ANALIZE E DESENVOLVIMENTO DE SISTEMAS
 FACULDADE FANAP
 PROFESSOR JOFRRE MOTA E PABLLO BORGES CARDOSO
 2° PERIODO
-LISTA DE APLICATIVOS SOLICITADOS COMO EXERCICIO .
+LISTA DE ALGORITIMOS SOLICITADOS
+
+
 
 
 Questão 1 (Teórica) – Em toda linguagem de programação existem os operadores lógicos e aritméticos, assim tomando como referência a linguagem de programação Java, descreva abaixo quais são e suas respectivas funções destes operadores.
